@@ -1,0 +1,14 @@
+category,disorder,symptoms,mood,sleep,activity,diet,analysis
+neuropsychiatric,Major Depressive Disorder,persistent sadness|loss of interest|fatigue|hopelessness,4,5,4,4,Chronic low mood combined with poor sleep and low activity increases depressive risk
+neuropsychiatric,Generalized Anxiety Disorder,excessive worry|restlessness|muscle tension|poor concentration,5,5,5,5,Moderate mood instability with sleep disruption elevates anxiety patterns
+neuropsychiatric,Bipolar Disorder,mood swings|mania|depression|impulsivity,3,4,4,5,Extreme mood fluctuation combined with irregular sleep increases bipolar indicators
+neuropsychiatric,Schizophrenia,hallucinations|delusions|social withdrawal|disorganized thinking,3,4,3,4,Severe mood dysregulation and social inactivity amplify vulnerability markers
+neuropsychiatric,ADHD,inattention|hyperactivity|impulsivity|poor focus,5,6,5,5,Low activity regulation and inconsistent sleep influence attentional instability
+neurological,Migraine,headache|nausea|light sensitivity|fatigue,5,4,5,5,Poor sleep and dietary imbalance elevate neurological stress response
+neurological,Epilepsy,seizures|confusion|loss of awareness|fatigue,4,4,4,4,Sleep deprivation and physical exhaustion raise seizure susceptibility
+neurological,Parkinsons Disease,tremor|rigidity|slow movement|balance issues,5,5,4,5,Low physical activity and long-term lifestyle stress correlate with neurodegeneration risk
+neurological,Alzheimers Disease,memory loss|confusion|cognitive decline|disorientation,5,5,4,4,Chronic poor sleep and diet impact long-term cognitive resilience
+neurological,Multiple Sclerosis,muscle weakness|vision problems|fatigue|coordination loss,5,5,4,5,Low activity and systemic inflammation patterns increase flare likelihood
+baseline,Healthy Baseline,none,8,7,6,0,Healthy baseline
+baseline,Healthy Baseline,none,9,8,7,0,Healthy baseline
+baseline,Healthy Baseline,none,7,8,6,1,Healthy baseline
