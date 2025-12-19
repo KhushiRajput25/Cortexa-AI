@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cortexa AI Predictor</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div style="font-family: Arial; text-align: center; margin-top: 50px;">
+        <h1>Cortexa AI Risk Predictor</h1>
+        <form action="/predict" method="POST" style="display: inline-block; text-align: left;">
+            <label>Mood (1-10):</label><br>
+            <input type="number" name="mood" required><br><br>
+            <label>Sleep Hours:</label><br>
+            <input type="number" name="sleep" required><br><br>
+            <label>Physical Activity (days/week):</label><br>
+            <input type="number" name="activity" required><br><br>
+            <button type="submit">Check Risk</button>
+        </form>
+    </div>
+</body>
+</html>
